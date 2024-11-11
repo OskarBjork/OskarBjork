@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I am a first year engineering student at KTH, specifically engineering physics
+
+Interested in:
+
+- Electromagnetism
+- Mechanics
+- Dynamical systems
+
+Currently enrolled in courses such as:
+
+- Thermodynamics
+- Calculus
+- Linear Algebra
+- Classical Physics
+
+
 <!--
 **OskarBjork/OskarBjork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
