@@ -5,11 +5,14 @@ I am a first year engineering student at KTH, specifically engineering physics
 Interested in:
 
 - Electromagnetism
+- Circuit Analysis
+- Computer Science
 - Mechanics
 - Dynamical systems
 
 Currently enrolled in courses such as:
 
+- Introductory Programming
 - Thermodynamics
 - Calculus
 - Linear Algebra
